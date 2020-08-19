@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build lab1a",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "lab1a.c"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+
+        {
+            "label": "build lab1b",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "lab1b.c"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
