@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build proj7",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g", //MUST KEEP THIS
+                "proj6Base.cpp",
+                "Island.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+
+        {
+            "label": "build lab1b",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "lab1b.c"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

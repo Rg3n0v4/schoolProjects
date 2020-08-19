@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7e6cab6-494e-4b4f-9718-f71d7145f026" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJ9C81xCE5iEEU6S71E73zrRcj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaFX_InClass_0225" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ThreeCardPokerGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ThreeCardPokerGame" />
+      <module name="ThreeCardPokerProject2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreeCardPokerGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e6cab6-494e-4b4f-9718-f71d7145f026" name="Default Changelist" comment="" />
+      <created>1582649699579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582649699579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="12" key="#ThreeCardPokerGame" timestamp="1583638870193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="12" key="#ThreeCardPokerGame/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583638870193" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583638821146">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583638821146" />
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1583527563743">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583527563743" />
+    <state x="399" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582691870027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582691870027" />
+    <state x="2552" y="148" key="FileChooserDialogImpl" timestamp="1583528665890">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583460768708" />
+    <state x="2552" y="148" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583528665890" />
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583439014415" />
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1583694491935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583694491935" />
+    <state width="938" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583536284330" />
+    <state width="1237" height="94" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583614357157" />
+    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1583694491935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583694491935" />
+    <state width="938" height="281" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583536284330" />
+    <state width="1237" height="94" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583614357157" />
+    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1583694491935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583694491935" />
+    <state width="938" height="281" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583536284330" />
+    <state width="1237" height="94" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583614357157" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1583694491935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583694491935" />
+    <state width="938" height="281" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583536284330" />
+    <state width="1237" height="94" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583614357157" />
+    <state x="2426" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1583690256622">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2426" y="254" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583690256622" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583439002778" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583642528259">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583642528259" />
+  </component>
+</project>

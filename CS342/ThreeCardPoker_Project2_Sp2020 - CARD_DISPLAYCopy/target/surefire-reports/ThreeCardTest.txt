@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ThreeCardTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.028 s <<< FAILURE! - in ThreeCardTest
+test  Time elapsed: 0.016 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at ThreeCardTest.test(ThreeCardTest.java:14)
+

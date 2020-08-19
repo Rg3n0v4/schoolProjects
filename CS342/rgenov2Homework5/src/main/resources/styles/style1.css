@@ -1,0 +1,47 @@
+.orderBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: green;
+}
+.deleteBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: red;
+
+}
+.finishBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: purple;
+}
+.extraShotBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: burlywood;
+}
+.creamBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: cornsilk;
+}
+.sugarBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: whitesmoke;
+}
+.caramelBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: goldenrod;
+}
+.soymilkBtn{
+	-fx-font-size: 12px;
+	-fx-font-family: "Comic Sans MC";
+	-fx-background-color: cornflowerblue;
+}
+
+.background{
+	-fx-background-image: url("../images/My_Favorite_Coffee_YouTube_banner.png");
+    -fx-background-position: center center;
+
+}

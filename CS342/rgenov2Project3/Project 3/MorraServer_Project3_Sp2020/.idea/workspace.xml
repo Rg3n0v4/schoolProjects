@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a6b98d1-48d8-48e5-ac50-93f8537784af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a64yyERVuDATaOV4nvcjfw1PzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TheGameOfMorra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheGameOfMorra" />
+      <module name="MorraProject3Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TheGameOfMorra" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6b98d1-48d8-48e5-ac50-93f8537784af" name="Default Changelist" comment="" />
+      <created>1586042967105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586042967105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="148" key="#Project_Structure" timestamp="1586042979178">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1066" y="148" key="#Project_Structure/0.23.2560.1337@0.23.2560.1337" timestamp="1586042979178" />
+    <state x="930" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586042995327">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="930" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1586042995327" />
+    <state x="1541" y="399" key="#xdebugger.evaluate" timestamp="1586772360725">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1541" y="399" key="#xdebugger.evaluate/0.23.2560.1337@0.23.2560.1337" timestamp="1586772360725" />
+    <state width="1510" height="459" key="GridCell.Tab.0.bottom" timestamp="1586839759073">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586778404915" />
+    <state width="1391" height="176" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1586643286764" />
+    <state width="1510" height="459" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1586839759073" />
+    <state width="1527" height="459" key="GridCell.Tab.0.bottom/0.23.2560.1338@0.23.2560.1338" timestamp="1586837860662" />
+    <state width="1296" height="127" key="GridCell.Tab.0.bottom/0.23.2560.1340@0.23.2560.1340" timestamp="1586818057012" />
+    <state width="1510" height="459" key="GridCell.Tab.0.center" timestamp="1586839759072">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586778404913" />
+    <state width="1391" height="176" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1586643286759" />
+    <state width="1510" height="459" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1586839759072" />
+    <state width="1527" height="459" key="GridCell.Tab.0.center/0.23.2560.1338@0.23.2560.1338" timestamp="1586837860661" />
+    <state width="1296" height="127" key="GridCell.Tab.0.center/0.23.2560.1340@0.23.2560.1340" timestamp="1586818057011" />
+    <state width="1510" height="459" key="GridCell.Tab.0.left" timestamp="1586839759072">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586778404912" />
+    <state width="1391" height="176" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1586643286754" />
+    <state width="1510" height="459" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1586839759072" />
+    <state width="1527" height="459" key="GridCell.Tab.0.left/0.23.2560.1338@0.23.2560.1338" timestamp="1586837860661" />
+    <state width="1296" height="127" key="GridCell.Tab.0.left/0.23.2560.1340@0.23.2560.1340" timestamp="1586818057011" />
+    <state width="1510" height="459" key="GridCell.Tab.0.right" timestamp="1586839759073">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1398" height="132" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586778404914" />
+    <state width="1391" height="176" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1586643286763" />
+    <state width="1510" height="459" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1586839759073" />
+    <state width="1527" height="459" key="GridCell.Tab.0.right/0.23.2560.1338@0.23.2560.1338" timestamp="1586837860662" />
+    <state width="1296" height="127" key="GridCell.Tab.0.right/0.23.2560.1340@0.23.2560.1340" timestamp="1586818057011" />
+    <state x="281" y="134" key="SettingsEditor" timestamp="1586643181246">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="281" y="134" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1586643181246" />
+    <state x="281" y="147" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1586629090515" />
+    <state x="1533" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586809694660">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="794" y="170" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586611194289" />
+    <state x="794" y="179" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1586490722984" />
+    <state x="1533" y="276" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1586809694660" />
+    <state x="1492" y="433" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586837805596">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="1492" y="432" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1337@0.23.2560.1337" timestamp="1586769951772" />
+    <state x="1492" y="432" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1338@0.23.2560.1338" timestamp="1586773830501" />
+    <state x="1492" y="433" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1340@0.23.2560.1340" timestamp="1586837805596" />
+    <state x="0" y="23" width="1297" height="1330" key="dock-window-1" timestamp="1586767295898">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="0" y="23" width="1297" height="1330" key="dock-window-1/0.23.2560.1337@0.23.2560.1337" timestamp="1586767295898" />
+    <state x="1459" y="326" width="639" height="731" key="find.popup" timestamp="1586839825269">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="1459" y="325" width="639" height="729" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1586839420907" />
+    <state x="1459" y="325" width="639" height="729" key="find.popup/0.23.2560.1338@0.23.2560.1338" timestamp="1586774820962" />
+    <state x="1459" y="326" width="639" height="731" key="find.popup/0.23.2560.1340@0.23.2560.1340" timestamp="1586839825269" />
+    <state x="277" y="323" key="run.anything.popup" timestamp="1586760937651">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="277" y="323" key="run.anything.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1586760937651" />
+    <state x="847" y="129" width="670" height="456" key="search.everywhere.popup" timestamp="1586613560651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="847" y="129" width="670" height="456" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586613560651" />
+    <state x="1505" y="207" width="670" height="729" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1586389781745" />
+    <state x="1505" y="215" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1586390215185" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MorraInfo.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MorraInfo.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TheGameOfMorra.java</url>
+          <line>320</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
